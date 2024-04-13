@@ -31,7 +31,6 @@ Welcome to the Password Generator project! This is a simple yet powerful web app
 - **Customizable Options:** Choose the length of your password and select which character types to include.
 - **Secure Passwords:** Generate strong and secure passwords to enhance your online security.
 - **Copy to Clipboard:** Easily copy your generated password to the clipboard for quick access.
-- **Responsive Design:** Enjoy a seamless experience across different devices and screen sizes.
 
 ## Technologies Used
 
@@ -66,7 +65,6 @@ Follow these steps to generate a password using the Password Generator:
 3. Select the character types you want to include in your password (lowercase letters, uppercase letters, numbers).
 4. Click the "Generate Password" button.
 5. Your generated password will be displayed in the designated area.
-6. Click the "Copy to Clipboard" button to copy the password to your clipboard.
 
 ## Contributing
 
@@ -81,6 +79,6 @@ Contributions are welcome! If you'd like to contribute to the Password Generator
 
 ## License
 
-This project was done by Arshad Khan.
-This project is licensed under the [MIT License](LICENSE).
+- This project was done by Arshad Khan.
+- This project is licensed under the [MIT License](LICENSE).
 
