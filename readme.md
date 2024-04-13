@@ -1,6 +1,10 @@
 # Password Generator
 
-![Password Generator Preview](password-generator-preview.png)
+![Password Generator Preview](https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/1.png?raw=true)
+(https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/2.png?raw=true)
+(https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/3.png?raw=true)
+(https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/4.png?raw=true)
+
 
 ## Table of Contents
 
