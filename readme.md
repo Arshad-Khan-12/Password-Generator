@@ -1,15 +1,15 @@
 # Password Generator
 
 ![Password Generator Preview](https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/1.png?raw=true)
-(https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/2.png?raw=true)
-!(https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/3.png?raw=true)
-(https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/4.png?raw=true)
+[](https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/2.png?raw=true)
+[](https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/3.png?raw=true)
+[](https://github.com/Arshad-Khan-12/Password-Generator/blob/main/Images/4.png?raw=true)
 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Demo](#demo)
+- [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
@@ -17,13 +17,14 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-Welcome to the Password Generator project! This is a simple yet powerful web application designed to help you create secure passwords with ease. It offers various customization options, including the ability to include lowercase letters, uppercase letters, and numbers in your generated passwords.
 
 ## Demo
 
 You can try out the live demo of the Password Generator [here](https://arshad-khan-12.github.io/Password-Generator/).
+
+## Introduction
+
+Welcome to the Password Generator project! This is a simple yet powerful web application designed to help you create secure passwords with ease. It offers various customization options, including the ability to include lowercase letters, uppercase letters, and numbers in your generated passwords.
 
 ## Features
 
