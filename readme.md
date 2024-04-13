@@ -19,7 +19,7 @@ Welcome to the Password Generator project! This is a simple yet powerful web app
 
 ## Demo
 
-You can try out the live demo of the Password Generator [here](link-to-live-demo).
+You can try out the live demo of the Password Generator [here](https://arshad-khan-12.github.io/Password-Generator/).
 
 ## Features
 
